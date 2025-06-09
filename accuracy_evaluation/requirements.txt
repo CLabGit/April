@@ -1,0 +1,10 @@
+click
+pytorch-ignite
+tensorboard
+scipy==1.13.1
+numpy
+timm==0.6.13
+tqdm
+transformers
+pandas
+matplotlib
