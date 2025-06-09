@@ -1,11 +1,8 @@
-# April: Accuracy-Improved Floating-Point Approximation For Neural Network Accelerators
-
-# Project Directory Structure
-
-This repository contains two main directories that organize the project's evaluation data and scripts:
-
+# April: Accuracy-Improved Floating-Point Approximation For Neural Network Accelerators (DAC'25)
 
 ## Directory Descriptions
+
+This repository contains two main directories that organize the project's evaluation data and scripts:
 
 ### 1. `accuracy_evaluation/`
 This directory contains all files and scripts related to the evaluation of the accuracy of the system. It may include:
