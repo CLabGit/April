@@ -6,12 +6,12 @@ This repository contains two main directories that organize the project's evalua
 
 ### 1. `accuracy_evaluation/`
 This directory contains all files and scripts related to the evaluation of the accuracy of the system. It includes:
-- Datasets used for accuracy testing.
 - Scripts for running accuracy-related tests.
+- Datasets used for accuracy testing.
 - Results and logs from accuracy evaluation experiments.
 
 ### 2. `hardware_evaluation/`
-This directory is dedicated to the evaluation of hardware performance. It includes:
+This directory is dedicated to the hardware realization. It includes:
 - SpinalHDL realization of the April systolic array generator.
 
 ## Usage
