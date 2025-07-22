@@ -12,7 +12,7 @@ This directory contains all files and scripts related to the evaluation of the a
 
 ### 2. `hardware_evaluation/`
 This directory is dedicated to the hardware realization. It includes:
-- SpinalHDL realization of the April systolic array generator.
+- SpinalHDL realization of the core of April -- Improved FPMA related design.
 
 ## Usage
 - Navigate to `accuracy_evaluation` for all accuracy-related tests and results.
